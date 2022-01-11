@@ -24,6 +24,9 @@ console.log(largest([56,3,4,59,9])); //=> 59
 
 ```
 
+Add type:module in package.json
+
+
 ## About
 
 <details>
