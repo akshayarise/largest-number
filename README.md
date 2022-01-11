@@ -17,7 +17,7 @@ $ npm install --save largest-number
 Works with numbers.
 
 ```js
-import largest from 'largest-number';
+import largest from 'largest-number'; // load the largest function from the largest-number module. 
 
 console.log(largest([12,34,5,67])); //=> 67
 console.log(largest([56,3,4,59,9])); //=> 59

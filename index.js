@@ -1,4 +1,4 @@
-
+// This function takes the argument as array. 
 export default function largest(arr) {
     let max = arr[0];
 
