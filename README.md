@@ -24,7 +24,7 @@ console.log(largest([56,3,4,59,9])); //=> 59
 
 ```
 
-Add ```json type:module ``` in package.json because it will help in running the ES6 features of the javascript.
+Add ``` type:module ``` in package.json because it will help in running the ES6 features of the javascript.
 
 
 ## About
