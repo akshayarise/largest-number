@@ -2,10 +2,15 @@
   "name": "largest-number",
   "version": "1.0.0",
   "description": "finding the largest number in the array.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akshay Kumar",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8"
+  }
 }
